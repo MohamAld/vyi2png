@@ -8,7 +8,7 @@ py vyi2png.py [your_file_name].vyi
 ```
 
 ### Prerequisites
-
+Python 3 
 PILLOW is required for this.
 
 ```
